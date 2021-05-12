@@ -1,1 +1,1 @@
-# vue-beyond-fundamentals
+# Vue Beyond the Fundamentals
